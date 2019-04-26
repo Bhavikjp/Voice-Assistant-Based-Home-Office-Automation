@@ -9,9 +9,9 @@ HARDWARE: Bread Board Wemos D1 Mini Board, Led, Resistors, Relay Module (Need to
 
 SOFTWARE: Arduino Ide, Google Assistant and IFTTT App in Your Smart Phone, an Active Account on Adafruit.io Mqtt Broker LIBRARY:ADAFRUITIO_MQTT_LIBRARY YOU CAN DOWNLOAD IT FROM HERE :https://github.com/adafruit/Adafruit_MQTT_Library
 
-Control your home appliances from anywhere with your Google asssistant!!!
+Control your home appliances from anywhere with your Google asssistant!!!https://github.com/Bhavikjp/Voice-Assistant-Based-Home-Office-Automation/blob/master/images/wemos%20d1%20mini.jpg
 
-Let's start your journey with our OPENCORNER’s hardware kit!! Open that Kit box. What do you have?? As you can see in that box there is one blue colour Board along with 2 LEDs, few resistors and jumper wires as shown below: image image image
+Let's start your journey with our OPENCORNER’s hardware kit!! Open that Kit box. What do you have?? As you can see in that box there is one blue colour Board along with 2 LEDs, few resistors and jumper wires as shown below: 
 
 Introduction:
 
