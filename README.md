@@ -1,4 +1,4 @@
-# GoogleAssistance_demo
+# Voice-Assistant-Based-Home-Office-Automation
 You might have used google assistants app to play music, to get some information and for other stuff. But your google assistant can do more, than these. Now you can use your google assistant to control your home appliances (here we have LED in place of home appliance) by just saying:   "OK Google, Lights ON"  That's it.
 
 **REQUIREMENT :**
@@ -8,7 +8,8 @@ Bread Board Wemos D1 Mini Board, Led, Resistors, Relay Module (Need to Buy If We
 
 **SOFTWARE:**
 Arduino Ide, Google Assistant and IFTTT App in Your Smart Phone, an Active Account on Adafruit.io Mqtt Broker
-LIBRARY:ADAFRUITIO_MQTT_LIBRARY YOU CAN DOWNLOAD IT FROM HERE :https://github.com/adafruit/Adafruit_MQTT_Library
+LIBRARY:ADAFRUITIO_MQTT_LIBRARY YOU CAN DOWNLOAD IT FROM HERE:
+https://github.com/adafruit/Adafruit_MQTT_Library
 
 **Control your home appliances from anywhere with your Google asssistant!!!**
 
@@ -283,4 +284,5 @@ Everything is done.now, just say “ok google” then you will see something as 
 Now just say “lights on” (say whatever you write at the time of configuration).
 If you have any doubt any query please feel free to ask about this task or about anything related to IoT.
 Just give us a chance to open door of internet of things technology for your smart future.
+https://github.com/Bhavikjp/
 
